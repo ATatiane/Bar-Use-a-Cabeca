@@ -1,8 +1,12 @@
 
 body{
-    background-color:black;
-    color:white;
-}
+    background-color: #d2b48c;
+     margin-left: 20%;
+     margin-right:20%;
+     border: 1px dotted gray;
+     padding: 10px 10px 10px 10px;
+     font-family: sans-serif;
+    }  
 
 img{
     width: 500px;
@@ -11,4 +15,4 @@ img{
 main{
     width: 600px;
 }
-p id="cardapio"{} /*Como eu faço isso? como deixo o cardapio com outra fonte?*/
+
